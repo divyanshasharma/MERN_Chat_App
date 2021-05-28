@@ -1,2 +1,2 @@
-# MERN: Full-stack Chat Application
+# MERN-Chat Application
 
